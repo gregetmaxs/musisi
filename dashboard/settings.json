@@ -1,0 +1,13 @@
+{
+    "website" : {
+      "domain": "https://superm2.tk"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://superm2.tk/callback",
+        "clientID": "883691211020443649",
+        "secret": ""
+    }
+  }
